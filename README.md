@@ -1,4 +1,4 @@
-# Calculadora de Interes Compuesto 
+# Calculadora de Interés Compuesto 
 
 Aplicación Web con Java creada como ejemplo para entender mejor su funcionamiento. 
 
